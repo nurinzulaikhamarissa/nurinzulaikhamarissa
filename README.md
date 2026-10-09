@@ -14,5 +14,5 @@ SQL, C++, Java
 - [Project name](link-to-your-repository): one sentence about it
 
 ## Contact
-- LinkedIn: nurin zulaikha marissa
+- LinkedIn: www.linkedin.com/in/nurin-zulaikha-marissa-2b4bb2439
 - Email: nurinzulaikhamarissa@gmail.com
